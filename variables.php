@@ -25,4 +25,10 @@ echo "<br>";
 
 echo $num*7;
 echo "<br>";
+
+echo $num*8;
+echo "<br>";
+
+echo $num*7;
+echo "<br>";
 ?>
